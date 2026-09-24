@@ -1,0 +1,8 @@
+{
+  "name": "PLANEANEM IA",
+  "description": "Asistente inteligente para la planeación docente de la Nueva Escuela Mexicana. Planea, adapta, evalúa y mejora con inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
